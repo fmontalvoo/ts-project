@@ -1,0 +1,26 @@
+{
+  "name": "ts-project",
+  "version": "0.1.0-beta",
+  "description": "Proyecto de Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fmontalvoo/ts-project.git"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": "Frank Montalvo Ochoa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fmontalvoo/ts-project/issues"
+  },
+  "homepage": "https://github.com/fmontalvoo/ts-project#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
