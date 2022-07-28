@@ -19,6 +19,11 @@
   },
   "homepage": "https://github.com/fmontalvoo/ts-project#readme",
   "devDependencies": {
+    "@types/lodash": "^4.14.182",
     "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "date-fns": "^2.29.1",
+    "lodash": "^4.17.21"
   }
 }
